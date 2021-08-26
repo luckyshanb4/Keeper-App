@@ -4,9 +4,11 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
+    "express": "^4.17.1",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.2.0"
